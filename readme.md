@@ -1,10 +1,14 @@
-## Olá! Eu sou o Vinícius José Desenvolvedor Backend.
-## Seja bem-vindo ao meu perfil do github.
+## Olá, Seja bem-vindo ao meu perfil do github.
+
+## Me chamo Vinícius José Desenvolvedor Backend.
  <div>
   <a href="https://github.com/viniciusjose">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjose&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
+ ## Meus conhecimentos
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="vinicius-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
  <img align="center" alt="vinicius-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
