@@ -1,6 +1,6 @@
 ## Olá, Seja bem-vindo ao meu perfil do github.
 
-## Me chamo Vinícius José Desenvolvedor Backend.
+## Me chamo Vinícius José, Em busca de oportunidade como Desenvolvedor Backend.
  <div>
   <a href="https://github.com/viniciusjose">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
