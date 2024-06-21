@@ -1,11 +1,18 @@
-## Olá, Seja bem-vindo ao meu perfil do github.
+## Hello, welcome to my Github profile.
 
-## Me chamo Vinícius José, Atualmente estou atuando como Desenvolvedor Backend na empresa Telium Networks.
+## I'm Vinicius Silva.
+
+- Responsible for architecture and application planning, with solid knowledge in Scalable Architecture, Micro Service, Cloud, DevOps, Integration with Legacy Systems, Asynchronous Architectures, Agile Methodologies, Containers, and Kubernetes, Databases (relational and non-relational).
+- I am a Software Engineer.
+- Developer, passionate about coding for fun, tech addicted and open-source lover.
+- Passionate about developing and systems' architecture, I believe that open source software and cloud computing are the future.
+
  <div>
   <a href="https://github.com/viniciusjose">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjose&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusjose&theme=dracula&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjose&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
  
  ## My Skills
  
@@ -14,12 +21,13 @@
   <img align="center" alt="vinicius-php" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="vinicius-laravel" height="30" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png">
   <img align="center" alt="vinicius-node" height="30" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
-  <img align="center" alt="vinicius-node" height="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
+  <img align="center" alt="vinicius-jest" height="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
   <img align="center" alt="vinicius-postgres" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="vinicius-mysql" height="30" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png">
   <img align="center" alt="vinicius-docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Postman" height="30" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" />
   <img align="center" alt="Rest API" height="30" src="https://cdn.auth0.com/blog/aspnet-core-web-apis/swagger.png" /> 
+  <img align="center" alt="gRPC" height="30" src="https://seeklogo.com/images/G/grpc-logo-561C1563B1-seeklogo.com.png" /> 
   <img align="center" alt="vinicius-composer" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
   <img align="center" alt="vinicius-javascript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="vinicius-reactjs" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
