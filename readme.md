@@ -16,7 +16,7 @@
   <img align="center" alt="vinicius-postgres" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="vinicius-mysql" height="30" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png">
   <img align="center" alt="vinicius-docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="left" alt="Postman" height="30" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
+  <img align="left" alt="Postman" height="30" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" />
   <img align="center" alt="Rest API" height="30" src="https://cdn.auth0.com/blog/aspnet-core-web-apis/swagger.png" /> 
   <img align="center" alt="vinicius-composer" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
   <img align="center" alt="vinicius-javascript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
