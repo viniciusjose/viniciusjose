@@ -16,14 +16,14 @@
   <img align="center" alt="vinicius-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="vinicius-mysql" height="30" width="40" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png">
   <img align="center" alt="vinicius-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
-  <img align="center" alt="Rest API" height="30" src="https://cdn.auth0.com/blog/aspnet-core-web-apis/swagger.png" /> 
+  <img align="left" alt="Postman" height="30" width="40" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
+  <img align="center" alt="Rest API" height="30" width="40" src="https://cdn.auth0.com/blog/aspnet-core-web-apis/swagger.png" /> 
   <img align="center" alt="vinicius-composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
   <img align="center" alt="vinicius-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="vinicius-reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Kafka" width="30px" src="https://seeklogo.com/images/K/kafka-logo-8E01E03CAD-seeklogo.com.png" />
-  <img align="center" alt="Jenkins" width="30px" src="https://seeklogo.com/images/J/jenkins-logo-07C99BD83D-seeklogo.com.png" />
-  <img align="center" alt="Kubernetes" width="30px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
+  <img align="center" alt="Kafka" height="30" width="40" src="https://seeklogo.com/images/K/kafka-logo-8E01E03CAD-seeklogo.com.png" />
+  <img align="center" alt="Jenkins" height="30" width="40" src="https://seeklogo.com/images/J/jenkins-logo-07C99BD83D-seeklogo.com.png" />
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
 </div>
   
   ##
