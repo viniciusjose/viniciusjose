@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="vinicius-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="vinicius-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
- <img align="center" alt="vinicius-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="vinicius-laravel" height="30" width="40" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png">
   <img align="center" alt="vinicius-lumen" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg">
   <img align="center" alt="vinicius-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="vinicius-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
