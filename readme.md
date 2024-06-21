@@ -7,12 +7,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjose&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- ## Meus conhecimentos
+ ## My Skills
  
 <div style="display: inline_block"><br>
   <img align="center" alt="vinicius-php" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="vinicius-php" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="vinicius-laravel" height="30" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png">
+  <img align="center" alt="vinicius-laravel" height="30" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   <img align="center" alt="vinicius-postgres" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="vinicius-mysql" height="30" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png">
   <img align="center" alt="vinicius-docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
