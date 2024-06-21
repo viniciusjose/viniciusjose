@@ -7,15 +7,16 @@
 - Developer, passionate about coding for fun, tech addicted and open-source lover.
 - Passionate about developing and systems' architecture, I believe that open source software and cloud computing are the future.
 
-<div style>
+<div style="display: inline-block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusjose&theme=dracula&hide_border=true" />
 </div>
 <table>
 <tr>
   <td  style="boder: none !important">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
   </td>
   <td  style="boder: none!">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusjose&theme=dracula&hide_border=true" />
   </td>
 </tr>
 </table>
