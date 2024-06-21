@@ -9,7 +9,7 @@
 
 <div style="display: inline-block">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusjose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" style="margin-left: 10em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusjose&theme=dracula&hide_border=false" />
+  <img height="150em" style="margin-left: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusjose&theme=dracula&hide_border=false" />
 </div>
 
 <div style="display: inline-block; align-content: center">    
