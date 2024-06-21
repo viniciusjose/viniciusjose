@@ -12,7 +12,7 @@
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusjose&theme=dracula&hide_border=true" />
 </div>
 
-<div style="display: inline-block">    
+<div style="display: inline-block; align-content: center">    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjose&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
