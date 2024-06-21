@@ -14,8 +14,8 @@
 
 <div style="display: inline-block; align-content: center">    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjose&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/GQty4dYXeVkOeMzqVx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/CleverCodeLab-work-friday-internet-GQty4dYXeVkOeMzqVx">via GIPHY</a></p>
+  <img height="180em" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif" />
+  <img height="180em" src="https://giphy.com/embed/GQty4dYXeVkOeMzqVx" />
 </div>
 
  ## My Skills
