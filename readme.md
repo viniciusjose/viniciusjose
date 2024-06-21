@@ -14,6 +14,7 @@
 
 <div style="display: inline-block; align-content: center">    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjose&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 </div>
 
  ## My Skills
