@@ -7,7 +7,7 @@
 - Developer, passionate about coding for fun, tech addicted and open-source lover.
 - Passionate about developing and systems' architecture, I believe that open source software and cloud computing are the future.
 
-<table>
+<table style="boder: none">
 <tr>
   <td>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
