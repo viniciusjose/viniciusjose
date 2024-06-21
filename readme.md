@@ -11,17 +11,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusjose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusjose&theme=dracula&hide_border=true" />
 </div>
-<table>
-<tr>
-  <td  style="boder: none !important">
-    
-  </td>
-  <td  style="boder: none!">
-  </td>
-</tr>
-</table>
-  
- 
+
+<div style="display: inline-block">    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjose&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
  ## My Skills
  
 <div style="display: inline_block"><br>
